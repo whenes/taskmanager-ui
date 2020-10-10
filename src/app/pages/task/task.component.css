@@ -1,0 +1,43 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons button {
+  margin-top: 20px;
+  height: 40px;
+  font-size: 20px;
+  width: 140px;
+}
+
+label {
+  margin-top: 10px;
+}
+
+input, textarea, select {
+  height: 40px;
+  font-size: 20px;
+}
+
+textarea {
+  height: 80px;
+}
+
+.content {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+@media screen and (max-width: 650px) {
+  .content {
+    width: 300px;
+  }
+}
