@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Screenshots
+## Full size app
+![fullscreen](https://github.com/whenes/taskmanager-ui/blob/main/src/assets/prints/hd-screen-app.png)
+
+## Medium size app
+![mediumscreen](https://github.com/whenes/taskmanager-ui/blob/main/src/assets/prints/medium-screen-app.jpg)
+
+## Mobile size app
+![mobilescreen](https://github.com/whenes/taskmanager-ui/blob/main/src/assets/prints/mobile-app.jpg)
