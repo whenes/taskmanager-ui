@@ -1,6 +1,6 @@
 # TaskmanagerUi
 
-## Online Service Adress
+## Online Service Address
 https://whenes-taskmanager-ui.herokuapp.com/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
